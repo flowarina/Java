@@ -1,5 +1,6 @@
 package week01;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 public class Task04Test {
@@ -7,9 +8,7 @@ public class Task04Test {
 
 
     @Test
-    public void testGetFive() {
-       // Assert.assertEquals(5,Sample.getFive());
-        //Assert/assertEquals()
+    public void testTask() {
+        Assert.assertEquals("1   2   3   4",Task04.getNumbers());
     }
-
 }

@@ -11,5 +11,4 @@ public class Task03Test {
     public void testTask() {
         Assert.assertEquals("0 35 -59 2",Task03.getNumbers());
     }
-
 }

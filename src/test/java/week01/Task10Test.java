@@ -9,6 +9,6 @@ public class Task10Test {
 
     @Test
     public void testTask() {
-        Assert.assertEquals("5 10 21",Task10.getNumbers());
+        Assert.assertEquals("5\n10\n21",Task10.getNumbers());
     }
 }

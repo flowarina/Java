@@ -11,5 +11,4 @@ public class Task01Test {
     public void testTask() {
         Assert.assertEquals("3.14",Task01.getPI());
     }
-
 }

@@ -13,5 +13,4 @@ public class Task05Test {
        // Assert.assertEquals(5,Sample.getFive());
         //Assert/assertEquals()
     }
-
 }

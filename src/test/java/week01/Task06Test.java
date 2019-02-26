@@ -11,5 +11,4 @@ public class Task06Test {
     public void testTask() {
         Assert.assertEquals("7  15  100",Task06.getNumbers());
     }
-
 }
